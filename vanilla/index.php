@@ -15,5 +15,13 @@
         echo $varone;
         //This seems to achieve little.
         ?>
+        <div id="test1">
+            <?php
+            //test of var adds
+            echo $varone."".$vartwo;
+            //vardump /typing stuff
+            echo var_dump($varone);
+            ?>
+        </div>
     </body>
 </html>
