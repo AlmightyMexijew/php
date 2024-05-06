@@ -1,0 +1,6 @@
+How to test/see php files in action while developing:
+
+1)go to dir
+2)run the line : php -S localhost:8000
+3)in browser, go to localhost:8000/ and include the file path (i.e. localhost:8000/index.php)
+4) browser will display all that needs displaying.
